@@ -8,7 +8,7 @@
   <title>Self-Progress</title>
   <style>
      body{
-    background-image: linear-gradient(-130deg, rgb(137, 165, 170),rgb(139, 207, 224), rgb(98, 166, 179),rgb(176, 208, 221));
+    background-image: linear-gradient(-130deg, rgb(137, 165, 170),rgb(139, 207, 224), rgb(206, 44, 15),rgb(176, 208, 221));
      }
     #div-1{
       text-align: center;
