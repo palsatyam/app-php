@@ -72,67 +72,88 @@
     <tr>
       <td> 01-11-2022 </td>
       <td> About the php </td>
-       <td> <a href="../php-tutorial/Lrn-progress/about.php" >Check-Out-This </a> </td>
+       <td> <a href="lrn-progress/about.php" >Check-Out-This </a> </td>
     </tr>
     <tr>
       <td> 02-11-2022 </td>
       <td> Data Types</td>
-      <td> <a href="../php-tutorial/Lrn-progress/data-type.php" >Check-Out-This </a> </td>
+      <td> <a href="lrn-progress/data-type.php" >Check-Out-This </a> </td>
     </tr>
     <tr>
       <td> 03-11-2022 </td>
       <td> Work on Form</td>
-      <td> <a href="../php-tutorial/Lrn-progress/form.php">Check-Out-This </a></td>
+      <td> <a href="lrn-progress/form.php">Check-Out-This </a></td>
     </tr>
     <tr>
       <td> 04-11-2022 </td>
-      <td> About the php </td>
-      <td>
-         <ul>
-                 <li> <a href="../php-tutorial/Lrn-progress/if-else.php">Check-Out-This </a> </li>
-                 <li><a href="../php-tutorial/Lrn-progress/else-if.php">Check-Out-This </a> </li>
-                 <li><a href="../php-tutorial/Lrn-progress/switch.php">Check-Out-This </a> </li> 
-        </ul>
-      </td>
+      <td>If-Else </td>
+      <td> <a href="lrn-progress/else-if.php">Check-Out-This </a> </td>
+    </tr>
+    <tr>
+      <td> 04-11-2022 </td>
+      <td> Else-If </td>
+      <td> <a href="lrn-progress/else-if.php">Check-Out-This </a> </td>
+    </tr>
+    <tr>
+      <td> 04-11-2022 </td>
+      <td> Switch-Case </td>
+      <td> <a href="lrn-progress/switch.php">Check-Out-This </a></td>
+    </tr>
+
+    <tr>
+      <td> 05-11-2022 </td>
+      <td> While-Loop </td>
+      <td> <a href="lrn-progress/while-loop.php">Check-Out-This </a></td>
     </tr>
     <tr>
       <td> 05-11-2022 </td>
-      <td> About the php </td>
-      <td>
-        <ul>
-                <li> <a href="../php-tutorial/Lrn-progress/while-loop.php">Check-Out-This </a> </li>
-                <li><a href="../php-tutorial/Lrn-progress/else-if.php">Check-Out-This </a> </li>
-       </ul>
-     </td>
+      <td> Do-While-Loop </td>
+      <td> <a href="lrn-progress/do-while-loop.php">Check-Out-This </a></td>
+   </tr>
+
     <tr>
       <td> 06-11-2022 </td>
-      <td> About the php </td>
-      <td> Check-Out-This </td>
+      <td>  </td>
+      <td> <a href=""> Check-Out-This</a> </td>
     </tr>
     <tr>
       <td> 07-11-2022 </td>
-      <td> About the php </td>
-      <td> Check-Out-This </td>
+      <td> </td>
+      <td><a href=""> Check-Out-This</a></td>
     </tr>
     <tr>
       <td> 08-11-2022 </td>
-      <td> About the php </td>
-      <td> Check-Out-This </td>
+      <td> Foreach-Array </td>
+      <td> <a href="lrn-progress/foreach-array.php"> Check-Out-This</a> </td>
+    </tr>
+    <tr>
+      <td> 08-11-2022 </td>
+      <td> Indexed-Array</td>
+      <td> <a href="lrn-progress/indexed-array.php"> Check-Out-This </a> </td>
+    </tr>
+    <tr>
+      <td> 08-11-2022 </td>
+      <td> Associative-Array</td>
+      <td> <a href="lrn-progress/associative-array.php"> Check-Out-This </a> </td>
+    </tr>
+    <tr>
+      <td> 08-11-2022 </td>
+      <td> Multi-Dimensional-Array </td>
+      <td> <a href="lrn-progress/multi-dimensional-array.php"> Check-Out-This </a> </td>
     </tr>
     <tr>
       <td> 09-11-2022 </td>
-      <td> About the php </td>
-      <td> Check-Out-This </td>
+      <td>  </td>
+      <td><a href=""> Check-Out-This</a></td>
     </tr>
     <tr>
       <td> 10-11-2022 </td>
-      <td> About the php </td>
-      <td> Check-Out-This </td>
+      <td>  </td>
+      <td><a href=""> Check-Out-This</a> </td>
     </tr>
 
   </table>
     
     <div class="item-align"> Last-updated on <abbr title="This Content Updated by-Satyam Pal">05/11/2022</abbr></div>  
 </body>
-
 </html>
