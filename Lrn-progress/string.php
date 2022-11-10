@@ -11,3 +11,8 @@ echo strlen($a).($a);
 // like this 
  
 echo  str_word_count($a);
+
+// strrev() - Reverse a String .
+// It Reverse the Words 
+echo strrev($a);
+
