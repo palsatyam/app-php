@@ -148,8 +148,8 @@
     </tr>
     <tr>
       <td> 10-11-2022 </td>
-      <td>  </td>
-      <td><a href=""> Check-Out-This</a> </td>
+      <td>String Length</td>
+      <td><a href="lrn-progress/string-length.php"> Check-Out-This</a> </td>
     </tr>
 
   </table>
