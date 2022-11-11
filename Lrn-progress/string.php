@@ -23,3 +23,4 @@ echo str_replace("bad","good" ,($a));
 // strpos() - Search For a Text Within a String 
 
 echo strpos("Hello world!", "world");
+
