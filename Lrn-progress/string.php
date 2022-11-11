@@ -19,3 +19,7 @@ echo strrev($a);
 // str_replace() - Replace Text Within a String 
 // It will replace the word to each other Word
 echo str_replace("bad","good" ,($a));
+
+// strpos() - Search For a Text Within a String 
+
+echo strpos("Hello world!", "world");
