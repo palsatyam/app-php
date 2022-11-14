@@ -45,7 +45,6 @@
         </blockquote>
     </div>
     <div class="div-2">
-         
     </div>
 </body>
 </html>
