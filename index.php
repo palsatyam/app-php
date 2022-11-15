@@ -172,6 +172,12 @@
       <td>String</td>
       <td><a href="lrn-progress/string.php"> Check-Out-This</a> </td>
     </tr>
+    <tr>
+      <td> 15-11-2022 </td>
+      <td>PHP Date</td>
+      <td><a href="lrn-progress/date.php"> Check-Out-This</a> </td>
+    </tr>
+
 
   </table>
     
