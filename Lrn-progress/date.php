@@ -11,3 +11,6 @@ echo "Today is " . date("Y.m.d") . "<br>";
 echo "Today is " . date("Y-m-d") . "<br>";
 echo "Today is " . date("l");
 ?>
+echo"<hr>";
+echo"<br>";
+<?php echo date("Y");?>
