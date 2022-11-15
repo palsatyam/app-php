@@ -152,6 +152,27 @@
       <td><a href="lrn-progress/string.php"> Check-Out-This</a> </td>
     </tr>
 
+    <tr>
+      <td> 11-11-2022 </td>
+      <td>String</td>
+      <td><a href="lrn-progress/string.php"> Check-Out-This</a> </td>
+    </tr>
+    <tr>
+      <td> 12-11-2022 </td>
+      <td>String</td>
+      <td><a href="lrn-progress/string.php"> Check-Out-This</a> </td>
+    </tr>
+    <tr>
+      <td> 13-11-2022 </td>
+      <td>String</td>
+      <td><a href="lrn-progress/string.php"> Check-Out-This</a> </td>
+    </tr>
+    <tr>
+      <td> 14-11-2022 </td>
+      <td>String</td>
+      <td><a href="lrn-progress/string.php"> Check-Out-This</a> </td>
+    </tr>
+
   </table>
     
     <div class="item-align"> Last-updated on <abbr title="This Content Updated by-Satyam Pal">05/11/2022</abbr></div>  
