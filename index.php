@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -184,6 +184,147 @@
     <div class="item-align"> Last-updated on <abbr title="This Content Updated by-Satyam Pal">05/11/2022</abbr></div>  
 </body>
 </html>
+ -->
 
 
+ <!-- Progress table starts from here  -->
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.1/css/dataTables.bootstrap5.min.css">
+</head>
+<body>
+  <h2 class="text-center py-3">Class-Progress-Table</h2>
+  <div class="container col-md">
+    <table id="studentsdata" class="table table-striped table-hover" style="width:100%">
+      <thead>
+      <tr>
+      <th>Date</th>
+      <th>Topics Name</th>
+      <th>Topics</th>
+    </tr>
+    <tr>
+      <td> 01-11-2022 </td>
+      <td> About the php </td>
+       <td> <a href="lrn-progress/about.php" >Check-Out-This </a> </td>
+    </tr>
+    <tr>
+      <td> 02-11-2022 </td>
+      <td> Data Types</td>
+      <td> <a href="lrn-progress/data-type.php" >Check-Out-This </a> </td>
+    </tr>
+    <tr>
+      <td> 03-11-2022 </td>
+      <td> Work on Form</td>
+      <td> <a href="lrn-progress/form.php">Check-Out-This </a></td>
+    </tr>
+    <tr>
+      <td> 04-11-2022 </td>
+      <td>If-Else </td>
+      <td> <a href="lrn-progress/else-if.php">Check-Out-This </a> </td>
+    </tr>
+    <tr>
+      <td> 04-11-2022 </td>
+      <td> Else-If </td>
+      <td> <a href="lrn-progress/else-if.php">Check-Out-This </a> </td>
+    </tr>
+    <tr>
+      <td> 04-11-2022 </td>
+      <td> Switch-Case </td>
+      <td> <a href="lrn-progress/switch.php">Check-Out-This </a></td>
+    </tr>
 
+    <tr>
+      <td> 05-11-2022 </td>
+      <td> While-Loop </td>
+      <td> <a href="lrn-progress/while-loop.php">Check-Out-This </a></td>
+    </tr>
+    <tr>
+      <td> 05-11-2022 </td>
+      <td> Do-While-Loop </td>
+      <td> <a href="lrn-progress/do-while-loop.php">Check-Out-This </a></td>
+   </tr>
+
+    <tr>
+      <td> 06-11-2022 </td>
+      <td>  </td>
+      <td> <a href=""> Check-Out-This</a> </td>
+    </tr>
+    <tr>
+      <td> 07-11-2022 </td>
+      <td> </td>
+      <td><a href=""> Check-Out-This</a></td>
+    </tr>
+    <tr>
+      <td> 08-11-2022 </td>
+      <td> Foreach-Array </td>
+      <td> <a href="lrn-progress/foreach-array.php"> Check-Out-This</a> </td>
+    </tr>
+    <tr>
+      <td> 08-11-2022 </td>
+      <td> Indexed-Array</td>
+      <td> <a href="lrn-progress/indexed-array.php"> Check-Out-This </a> </td>
+    </tr>
+    <tr>
+      <td> 08-11-2022 </td>
+      <td> Associative-Array</td>
+      <td> <a href="lrn-progress/associative-array.php"> Check-Out-This </a> </td>
+    </tr>
+    <tr>
+      <td> 08-11-2022 </td>
+      <td> Multi-Dimensional-Array </td>
+      <td> <a href="lrn-progress/multi-dimensional-array.php"> Check-Out-This </a> </td>
+    </tr>
+    <tr>
+      <td> 09-11-2022 </td>
+      <td>  </td>
+      <td><a href=""> Check-Out-This</a></td>
+    </tr>
+    <tr>
+      <td> 10-11-2022 </td>
+      <td>String</td>
+      <td><a href="lrn-progress/string.php"> Check-Out-This</a> </td>
+    </tr>
+
+    <tr>
+      <td> 11-11-2022 </td>
+      <td>String</td>
+      <td><a href="lrn-progress/string.php"> Check-Out-This</a> </td>
+    </tr>
+    <tr>
+      <td> 12-11-2022 </td>
+      <td>String</td>
+      <td><a href="lrn-progress/string.php"> Check-Out-This</a> </td>
+    </tr>
+    <tr>
+      <td> 13-11-2022 </td>
+      <td>String</td>
+      <td><a href="lrn-progress/string.php"> Check-Out-This</a> </td>
+    </tr>
+    <tr>
+      <td> 14-11-2022 </td>
+      <td>String</td>
+      <td><a href="lrn-progress/string.php"> Check-Out-This</a> </td>
+    </tr>
+    <tr>
+      <td> 15-11-2022 </td>
+      <td>PHP Date</td>
+      <td><a href="lrn-progress/date.php"> Check-Out-This</a> </td>
+    </tr>
+      </thead>
+      
+    </table>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+  <script src="https://cdn.datatables.net/1.13.1/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.1/js/dataTables.bootstrap5.min.js"></script>
+
+  <script>
+    $(document).ready(function () {
+      $('#studentsdata').DataTable();
+    });
+  </script>
+</body>
+
+</html>
