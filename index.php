@@ -312,8 +312,12 @@
       <td>PHP Date</td>
       <td><a href="lrn-progress/date.php"> Check-Out-This</a> </td>
     </tr>
+    <tr>
+      <td> 17-11-2022 </td>
+      <td>PHP Date</td>
+      <td><a href="lrn-progress/date.php"> Check-Out-This</a> </td>
+    </tr>
       </thead>
-      
     </table>
   </div>
   <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
