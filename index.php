@@ -317,6 +317,22 @@
       <td>PHP Date</td>
       <td><a href="lrn-progress/date.php"> Check-Out-This</a> </td>
     </tr>
+    <tr>
+      <td> 18-11-2022 </td>
+      <td> Indexed-Array</td>
+      <td> <a href="lrn-progress/indexed-array.php"> Check-Out-This </a> </td>
+    </tr>
+    <tr>
+      <td> 19-11-2022 </td>
+      <td> Associative-Array</td>
+      <td> <a href="lrn-progress/associative-array.php"> Check-Out-This </a> </td>
+    </tr>
+    <tr>
+      <td> 20-11-2022 </td>
+      <td> Multi-Dimensional-Array </td>
+      <td> <a href="lrn-progress/multi-dimensional-array.php"> Check-Out-This </a> </td>
+    </tr>
+    <tr>
       </thead>
     </table>
   </div>
